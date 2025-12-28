@@ -31,22 +31,25 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qwerix1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Qwerix1337&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwerix1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qwerix1337&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
 </div>
 
 ---
 
 ### ⚡ About Me
 
-- 🔭 **I’m currently working on:** Advanced Telegram Bots & Portfolio Projects.
-- 🌱 **I’m currently learning:** `Aiogram 3.x`, `Asyncio`, `SQLAlchemy`.
-- 🤖 **Interest:** Artificial Intelligence, LLM integration, Automation.
-- ⚡ **Fun fact:** I can debug code in my sleep (sometimes).
+> **System Status:** `ONLINE`  
+> **Current Objective:** `Mastering Python & AI`
+
+- 🔭 **Working on:** High-load Telegram Bots & API Integrations.
+- 🌱 **Learning:** `Aiogram 3` architecture & `SQLAlchemy` optimization.
+- 👨‍💻 **Code Style:** Clean, Async, and Scalable.
+- ⚡ **Fun fact:** *I don't fix bugs, I eliminate them.*
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qwerix1337&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qwerix1337&theme=radical&hide_border=true&background=0D1117" alt="streak stats" />
 </div>
