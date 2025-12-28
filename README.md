@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35&height=250&section=header&text=Qwerix1337&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Telegram%20Bot%20Developer%20%7C%20UI%20Creator&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=F20089,2D00F7&height=250&section=header&text=Qwerix1337&desc=Python%20Dev%20%7C%20Mini%20Apps%20%7C%20Design&fontSize=70&fontAlignY=35&descAlignY=65&animation=fadeIn" alt="Header" width="100%"/>
 
   <h3>🚀 Code meets Design</h3>
   
