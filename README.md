@@ -1,16 +1,6 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7000FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Qwerix1337;Telegram+Bot+Developer;Mini+Apps+%26+UI+Creator;AI+%26+Design+Enthusiast" alt="Typing SVG" />
-  </a>
-
-  <pre>
-  ___                     _      _____  _____  _____ 
- / _ \ __      __  ___   _ __  (_)___\/ |___ / |___ / |___  |
-| | | |\ \ /\ / / / _ \ | '__| | | \ \/ /   |_ \   |_ \    / / 
-| |_| | \ V  V / |  __/ | |    | | /  \  ___) | ___) |  / /  
- \__\_\  \_/\_/   \___| |_|    |_|/_/\_\|____/ |____/  /_/   
-  </pre>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35&height=250&section=header&text=Qwerix1337&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Telegram%20Bot%20Developer%20%7C%20UI%20Creator&descAlignY=60&descAlign=50" alt="Header" width="100%"/>
 
   <h3>🚀 Code meets Design</h3>
   
